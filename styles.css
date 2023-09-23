@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: ;
+    padding: ;
+}
+header{
+    padding: 50px;
+    background-color: brown;
+    text-align: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    background: color sienna #333;
+}
+nav a{ 
+    color: white;
+    padding: 14px;
+    text-decoration: none ;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+estilos{
+    flex: 30px;
+    background-color: blue;
+    padding: 20px;
+}
+rendimiento{
+    flex: 70%;
+    background-color: antiquewhite;
+    padding: 20px;
+
+}
